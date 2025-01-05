@@ -7,7 +7,7 @@
 - MySQL
 
 ## Instalação
-- Clonar este repositório `git clone https://github.com/guimevn/crud-angular-go .`
+- Clonar este repositório `git clone https://github.com/guimevn/crud-go-angular .`
 - Mudar o diretório para o projeto Angular. `cd view`
 - Instalar as dependências do Angular. `npm install`
 - Mudar o diretório para o projeto Go. `cd ../api`
