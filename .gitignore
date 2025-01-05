@@ -1,0 +1,7 @@
+api/.vscode
+api/tmp
+api/go.sum
+view/.vscode
+view/.angular
+view/node_modules
+view/package-lock.json
